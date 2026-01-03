@@ -5,6 +5,31 @@
 }
 
 .main-div{
-    height: 200px;
+    height: 60px;
     width: 100%;
+    background-color: #43bcec;
 }
+.main-div .header-part img{
+    height: 60px;
+    width: auto;
+}
+
+.main-div .img-part{
+    width: 70%;
+    float: left;
+}
+.main-div .menu-part{
+    width: 30%;
+    float: left;
+}
+
+.menu-part ul li{
+    float: left;
+    list-style-type: none;
+    padding: 20px;
+}
+img{
+    width: auto;
+    height: 400px;
+}
+
